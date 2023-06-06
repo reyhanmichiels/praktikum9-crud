@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "582461978286",
+    "firebase_url": "https://praktikum9-23c98-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "praktikum9-23c98",
+    "storage_bucket": "praktikum9-23c98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582461978286:android:c400694c71d09182735f3f",
+        "android_client_info": {
+          "package_name": "com.example.praktikum9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582461978286-r6cs9kjjv8g179gogmqpn81uka2utn8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.praktikum9",
+            "certificate_hash": "34a69a36ea46d0bbf4a559b14b347f38d8e0b4a4"
+          }
+        },
+        {
+          "client_id": "582461978286-t9dip8hhcpsjr8209i0aiq4dn3aq4t8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCN_H5ahS01odGWibvUk81Ebb7H9Pp-Ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582461978286-5mvj797f7cllelj2qi3r1g7u7pg5t13t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
